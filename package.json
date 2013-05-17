@@ -1,0 +1,19 @@
+{
+  "name": "$MODULE_NAME",
+  "version": "0.0.0",
+  "description": "$DESCRIPTION",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chisophugis/$MODULE_NAME.git"
+  },
+  "author": "Sean Silva",
+  "license": "MIT",
+  "devDependencies": {
+    "tap": "~0.4.1"
+  },
+  "dependencies": {}
+}
